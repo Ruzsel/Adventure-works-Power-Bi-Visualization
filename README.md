@@ -13,3 +13,12 @@ This project entails data visualization using Power BI to analyze the sales perf
 https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/
 ## Model View  :
 ![image](https://github.com/Ruzsel/Adventure-works/assets/150054552/93dbac99-3c47-4442-abfb-fbd5a3cad0a1)
+## Executive Dashboard
+![image](https://github.com/Ruzsel/Adventure-works/assets/150054552/74f13c5e-a2b5-4ea7-8b3d-4e0850cdcba3)
+## Map
+![image](https://github.com/Ruzsel/Adventure-works/assets/150054552/e2c8214b-43a0-4e10-b43b-6c1d478b2555)
+## Product Detail
+![image](https://github.com/Ruzsel/Adventure-works/assets/150054552/5f1b6ead-f7d5-403e-8864-9d9d6b97d4de)
+## Customer Detail
+![image](https://github.com/Ruzsel/Adventure-works/assets/150054552/12c7a098-b350-47f4-96a2-6a5777c339cf)
+
