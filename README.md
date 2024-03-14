@@ -14,11 +14,14 @@ https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop
 ## Model View  :
 ![image](https://github.com/Ruzsel/Adventure-works/assets/150054552/93dbac99-3c47-4442-abfb-fbd5a3cad0a1)
 ## Executive Dashboard
-![image](https://github.com/Ruzsel/Adventure-works/assets/150054552/74f13c5e-a2b5-4ea7-8b3d-4e0850cdcba3)
+![image](https://github.com/Ruzsel/Adventure-works-Power-Bi-Visualization/assets/150054552/d6d0e032-ff0b-482e-9f79-5c410b806709)
 ## Map
-![image](https://github.com/Ruzsel/Adventure-works/assets/150054552/e2c8214b-43a0-4e10-b43b-6c1d478b2555)
+![image](https://github.com/Ruzsel/Adventure-works-Power-Bi-Visualization/assets/150054552/96469c8b-f384-4cf0-a241-c55f0dbdbe08)
 ## Product Detail
-![image](https://github.com/Ruzsel/Adventure-works/assets/150054552/5f1b6ead-f7d5-403e-8864-9d9d6b97d4de)
+![image](https://github.com/Ruzsel/Adventure-works-Power-Bi-Visualization/assets/150054552/afb35b1f-ae77-4857-a04b-2cd45d139d47)
 ## Customer Detail
-![image](https://github.com/Ruzsel/Adventure-works/assets/150054552/12c7a098-b350-47f4-96a2-6a5777c339cf)
+![image](https://github.com/Ruzsel/Adventure-works-Power-Bi-Visualization/assets/150054552/77baae3b-9383-4edd-bb92-b2db7f23559e)
+## Tooltip (Hidden)
+![image](https://github.com/Ruzsel/Adventure-works-Power-Bi-Visualization/assets/150054552/2b29b6e4-863d-4026-a107-79089ee6908a)
+
 
