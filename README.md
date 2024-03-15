@@ -2,7 +2,7 @@
 ## Project Description
 This project entails data visualization using Power BI to analyze the sales performance of Adventureworks company. The visualization aids management in understanding sales trends, customer purchasing patterns, and tracking product performance. This project is the result of my participation in "Microsoft Power BI Desktop for Business Intelligence (2023)" by "Maven Analytics" online course that I purchased on Udemy, where I learned the fundamentals of data visualization and analysis using Power BI.
 ## Usage Instructions
-### 1. Download the PBIX file from this repository.
+### 1. Download the "AdventureWorksFINAL.pbix" file from this repository.
 ### 2. Open the PBIX file using Power BI Desktop.
 ### 3. Explore the visualization using provided tabs:
 - Executive Dashboard: Visualizations dedicated to executives to understand the intensity of their engagements.
