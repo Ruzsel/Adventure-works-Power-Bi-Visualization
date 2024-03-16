@@ -13,7 +13,7 @@ This project entails data visualization using Power BI to analyze the sales perf
 https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/
 
 ## LinkedIn
-[**Fairuz Mujahid Annabil**](www.linkedin.com/in/fairuzmujahidannabil)
+[**Fairuz Mujahid Annabil**](https://www.linkedin.com/in/fairuzmujahidannabil/)
 
 ## Model View  :
 ![image](https://github.com/Ruzsel/Adventure-works/assets/150054552/93dbac99-3c47-4442-abfb-fbd5a3cad0a1)
